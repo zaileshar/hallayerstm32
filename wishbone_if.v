@@ -9,3 +9,5 @@ module wishbone_if (
     end
 endmodule
 // Fixed identified race condition
+
+// Modified timing constraints 79ns
